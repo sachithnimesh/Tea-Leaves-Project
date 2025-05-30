@@ -1,0 +1,4 @@
+.conda
+*.h5
+Tea leaf dataset
+hyperparam_tuning
